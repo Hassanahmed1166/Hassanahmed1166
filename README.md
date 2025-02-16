@@ -84,19 +84,20 @@ Beyond research and teaching, I am passionate about mentoring students in data s
   - Presented  AgriGuard: A Novel Deep Learning Approach for Pest Detection and Classification.  
 
 ### **Attendee**  
-- **Pak-Turk International Conference on Emerging Technologies**  
-  *University of Wah, 02 Dec 2022*  
-  - Attended sessions on AI, machine learning, and cybersecurity trends.  
-- **3rd International Conference on Smart Plant Protection**  
-  *MNSUAM, 15-16 Oct 2023*  
-  - Participated in workshops on AI applications in agriculture.  
+- **8th Multi-Disciplinary Student Research International Conference**  
+  *University of Wah, Wah Cantt, 06-07 Dec 2023*  
+- **5th Pak-Turk International Conference on Emerging Technologies in the Field of Sciences and Engineerin**  
+  *University of Wah, Wah Cantt, 02 Dec 2022*  
+- **7th Multi-Disciplinary Student Research International Conference**  
+  *University of Wah, Wah Cantt, 29-30 Nov 2022*  
 ---
 ## 📚 **Certifications & Training**  
 
-- **Problem-Based Learning in OBE** – FAST-NUCES  
+- **Problem-Based Learning in OBE** – FAST-NUCES
+- **Two-Day Teacher Training Workshop** – FAST-NUCES  
 - **Machine Learning, AI & Data Science** – Government of Punjab, Pakistan  
 - **Introduction to Generative AI** – Google Cloud  
-- **Cybersecurity Essentials** – CISCO Networking Academy  
+- **Introduction to Cybersecurity** – CISCO Networking Academy  
 - **Data Analytics & Business Intelligence** – DigiSkills.pk  
 - **Search Engine Optimization (SEO)** – DigiSkills.pk  
 - **E-Commerce Management** – DigiSkills.pk  
