@@ -1,7 +1,7 @@
 # 🌟 **Hassan Ahmed**  ![](https://komarev.com/ghpvc/?username=Hassanahmed1166&color=green&&style=flat)
 **Computer Scientist | AI Enthusiast | Educator | Innovator**  
 
-👋 Hi there! I’m **Hassan Ahmed**, a passionate **Computer Scientist** with a Master’s degree in Computer Science and a deep fascination for **Artificial Intelligence, Deep Learning, Explainable AI (XAI), Computer Vision, and Network Security**. Currently, I’m shaping the future of tech as an **Instructor at FAST-National University of Computer and Emerging Sciences**, where I empower students with cutting-edge knowledge and skills in computer science.  
+👋 Hi there! I’m **[Hassan Ahmed](https://www.linkedin.com/in/hassanahmed1166/)**, a passionate **Computer Scientist** with a Master’s degree in Computer Science and a deep fascination for **Artificial Intelligence, Deep Learning, Explainable AI (XAI), Computer Vision, and Network Security**. Currently, I’m shaping the future of tech as an **Instructor at FAST-National University of Computer and Emerging Sciences**, where I empower students with cutting-edge knowledge and skills in computer science.  
 
 My mission? To bridge the gap between complex AI systems and human understanding by developing **intelligent, explainable models** that drive smarter decision-making. With hands-on experience in **data analysis, predictive modeling, and security frameworks**, I have worked on groundbreaking projects in **machine learning, network security, computer vision, and XAI**, leveraging Python to unlock insights from intricate datasets.  
 
