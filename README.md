@@ -17,7 +17,6 @@ Beyond research and teaching, I am passionate about mentoring students in data s
 5. [📚 Certifications & Training](#-certifications--training)  
 6. [🌟 Volunteering & Leadership](#-volunteering--leadership)  
 7. [🏆 Awards & Achievements](#-awards--achievements)  
-8. [🌈 Let’s Connect!](#-lets-connect)  
 
 ---
 ## 🚀 **Skills & Expertise**  
@@ -144,7 +143,7 @@ Beyond research and teaching, I am passionate about mentoring students in data s
 
 
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img>  **Let’s Connect**  
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img>  **Let's Connect**  
 I’m always excited to collaborate on innovative projects, share knowledge, and explore new opportunities in AI, data science, and cybersecurity. Feel free to reach out—let’s create something extraordinary together!  
 
 📧 **Email**: mianhassaan1166@gmail.com  
