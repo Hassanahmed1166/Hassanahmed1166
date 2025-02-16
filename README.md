@@ -66,7 +66,7 @@ Beyond research and teaching, I am passionate about mentoring students in data s
 - **Selected Coursework**: Advanced Machine Learning, Advanced Network Security, Advanced Analysis of Algorithms, Information Security, Research Methodologies, Advanced Operating Systems, Advanced Image Processing  
 
 ### **Bachelor of Science in Software Engineering**  
-**Comsats University Islamabad, Wah Campus, Pakistan**  
+**COMSATS University Islamabad, Wah Campus, Pakistan**  
 *2018 – 2022*  
 - **Thesis**: *Lone Ranger - First-Person Shooting Game*  
 - **Selected Coursework**: Artificial Intelligence, Human-Computer Interaction, Database Systems, Linear Algebra, Digital Logic Design, Introduction to Data Science,   
@@ -107,7 +107,7 @@ Beyond research and teaching, I am passionate about mentoring students in data s
 ## 🌟 **Volunteering & Leadership**  
 
 ### **Blood Donation Activist**  
-*Comsats University Islamabad, Wah Campus (Sep 2019 – June 2022)*  
+*COMSATS University Islamabad, Wah Campus (Sep 2019 – June 2022)*  
 - Organized **blood donation camps** in collaboration with the Pakistan Red Crescent Society, collecting **100+ pints per camp**.  
 - Motivated students to participate and provided support to donors throughout the process.  
 
