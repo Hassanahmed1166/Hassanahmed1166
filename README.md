@@ -147,7 +147,7 @@ Beyond research and teaching, I am passionate about mentoring students in data s
 I’m always excited to collaborate on innovative projects, share knowledge, and explore new opportunities in AI, data science, and cybersecurity. Feel free to reach out—let’s create something extraordinary together!  
 
 📧 **Email**: mianhassaan1166@gmail.com  
-🔗 **LinkedIn**: [[Hassan Ahmed]](https://www.linkedin.com/in/hassanahmed1166/)  
+🔗 **LinkedIn**: [Hassan Ahmed](https://www.linkedin.com/in/hassanahmed1166/)  
 
 ---
 
