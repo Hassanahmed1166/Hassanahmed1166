@@ -8,8 +8,7 @@ My mission? To bridge the gap between complex AI systems and human understanding
 Beyond research and teaching, I am passionate about mentoring students in data science, AI, and cybersecurity, guiding them in their journey toward impactful innovations.
 
 ---
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=hassanahmed1166.hassanahmed1166&left_color=blue&right_color=green)  
----
+
 ## 📑 **Contents at a Glance**  
 1. [🚀 Skills & Expertise](#-skills--expertise)   
 2. [💼 Professional Experience](#-professional-experience)  
