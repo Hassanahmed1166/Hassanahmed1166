@@ -136,6 +136,14 @@ Beyond research and teaching, I am passionate about mentoring students in data s
 
 ---
 
+### :octocat: Github Statistics
+<p align="left">
+<img  src="https://github-readme-stats.vercel.app/api?username=Hassanahmed1166&show_icons=true&theme=radical" alt="Hassanahmed1166" width="480" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassanahmed1166&layout=compact&hide=html&theme=radical" alt="Hassanahmed1166"/>
+</p>
+
+
+
 ## 🌈 **Let’s Connect!**  
 I’m always excited to collaborate on innovative projects, share knowledge, and explore new opportunities in AI, data science, and cybersecurity. Feel free to reach out—let’s create something extraordinary together!  
 
