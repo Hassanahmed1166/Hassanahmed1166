@@ -8,6 +8,18 @@ My mission? To bridge the gap between complex AI systems and human understanding
 Beyond research and teaching, I am passionate about mentoring students in data science, AI, and cybersecurity, guiding them in their journey toward impactful innovations.
 
 ---
+## 📑 **Table of Contents**  
+1. [🌟 About Me](#-hassan-ahmed)  
+2. [🚀 Skills & Expertise](#-skills--expertise)   
+3. [💼 Professional Experience](#-professional-experience)  
+4. [🎓 Education](#-education)  
+5. [🌐 Conferences & Research](#-conferences--research)  
+6. [📚 Certifications & Training](#-certifications--training)  
+7. [🌟 Volunteering & Leadership](#-volunteering--leadership)  
+8. [🏆 Awards & Achievements](#-awards--achievements)  
+9. [🌈 Let’s Connect!](#-lets-connect)  
+
+---
 ## 🚀 **Skills & Expertise**  
 
 ### **Technical Skills**  
