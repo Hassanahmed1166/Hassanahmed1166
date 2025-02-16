@@ -3,21 +3,20 @@
 
 👋 Hi there! I’m **Hassan Ahmed**, a passionate **Computer Scientist** with a Master’s degree in Computer Science and a deep fascination for **Artificial Intelligence, Deep Learning, Explainable AI (XAI), Computer Vision, and Network Security**. Currently, I’m shaping the future of tech as an **Instructor at FAST-National University of Computer and Emerging Sciences**, where I empower students with cutting-edge knowledge and skills in computer science.  
 
-My mission? To bridge the gap between complex AI systems and human understanding by developing **intelligent, explainable models** that drive smarter decision-making. With hands-on experience in **data analysis, predictive modeling, and security frameworks**, I’ve worked on groundbreaking projects in **machine learning, computer vision, and XAI**, leveraging Python to unlock insights from intricate datasets.  
+My mission? To bridge the gap between complex AI systems and human understanding by developing **intelligent, explainable models** that drive smarter decision-making. With hands-on experience in **data analysis, predictive modeling, and security frameworks**, I have worked on groundbreaking projects in **machine learning, network security, computer vision, and XAI**, leveraging Python to unlock insights from intricate datasets.  
 
 Beyond research and teaching, I am passionate about mentoring students in data science, AI, and cybersecurity, guiding them in their journey toward impactful innovations.
 
 ---
-## 📑 **Table of Contents**  
-1. [🌟 About Me](#-hassan-ahmed)  
-2. [🚀 Skills & Expertise](#-skills--expertise)   
-3. [💼 Professional Experience](#-professional-experience)  
-4. [🎓 Education](#-education)  
-5. [🌐 Conferences & Research](#-conferences--research)  
-6. [📚 Certifications & Training](#-certifications--training)  
-7. [🌟 Volunteering & Leadership](#-volunteering--leadership)  
-8. [🏆 Awards & Achievements](#-awards--achievements)  
-9. [🌈 Let’s Connect!](#-lets-connect)  
+## 📑 **Contents at a Glance**  
+1. [🚀 Skills & Expertise](#-skills--expertise)   
+2. [💼 Professional Experience](#-professional-experience)  
+3. [🎓 Education](#-education)  
+4. [🌐 Conferences & Research](#-conferences--research)  
+5. [📚 Certifications & Training](#-certifications--training)  
+6. [🌟 Volunteering & Leadership](#-volunteering--leadership)  
+7. [🏆 Awards & Achievements](#-awards--achievements)  
+8. [🌈 Let’s Connect!](#-lets-connect)  
 
 ---
 ## 🚀 **Skills & Expertise**  
@@ -38,25 +37,24 @@ Beyond research and teaching, I am passionate about mentoring students in data s
 ## 💼 **Professional Experience**  
 
 ### **Instructor**  
-**FAST-National University of Computer and Emerging Sciences, CFD Campus**  
-*July 2022 – Present*  
-- Delivered engaging labs and lectures for undergraduate students in **Programming Fundamentals, IT in Business, and Operating Systems**.  
-- Mentored students in **AI, data science, and cybersecurity**, fostering a culture of innovation and curiosity.  
-- Contributed to curriculum development, ensuring alignment with industry trends and **Outcome-Based Education (OBE)** standards.  
+**FAST-National University of Computer and Emerging Sciences, CFD Campus, Pakistan**  
+*August 2024 – Present*  
+- Delivered engaging labs and lectures for undergraduate students.
+- **Courses**: Programming Fundamentals, IT in Business, and Operating Systems.  
 
 ### **Graduate Assistant**  
 **University of Wah, Wah Cantt, Pakistan**  
-*August 2021 – June 2022*  
+*November 2022 – June 2024*  
 - Conducted labs for **Database Systems, Database Applications, and ICT Applications**.  
 - Assisted in **OBE curriculum design** and prepared teaching materials to enhance student learning outcomes.  
 - Supported departmental projects and administrative tasks, ensuring smooth operations.  
 
 ### **IT Intern**  
 **Pakistan Ordnance Factories, Wah Cantt**  
-*July 2020 – October 2020*  
+*July 2022 – October 2022*  
 - Gained hands-on experience with **MySQL** and database management.  
 - Explored the fundamentals of **networking** and contributed to technical presentations.  
-- Collaborated with teams to deliver impactful project outcomes.  
+- Delivered presentations on ongoing projects, effectively communicating technical concepts.  
 
 ---
 ## 🎓 **Education**  
@@ -65,26 +63,33 @@ Beyond research and teaching, I am passionate about mentoring students in data s
 **University of Wah, Wah Cantt, Pakistan**  
 *2022 – 2024*  
 - **Thesis**: *DeepCAN: A Robust Deep Learning Framework for CAN Intrusion Detection in Autonomous Vehicles*  
-- **Coursework**: Advanced Machine Learning, Network Security, Analysis of Algorithms, Information Security, Research Methodologies  
+- **Selected Coursework**: Advanced Machine Learning, Advanced Network Security, Advanced Analysis of Algorithms, Information Security, Research Methodologies, Advanced Operating Systems, Advanced Image Processing  
 
 ### **Bachelor of Science in Software Engineering**  
 **Comsats University Islamabad, Wah Campus, Pakistan**  
 *2018 – 2022*  
 - **Thesis**: *Lone Ranger - First-Person Shooting Game*  
-- **Coursework**: Artificial Intelligence, Human-Computer Interaction, Database Systems, Linear Algebra, Digital Logic Design  
+- **Selected Coursework**: Artificial Intelligence, Human-Computer Interaction, Database Systems, Linear Algebra, Digital Logic Design, Introduction to Data Science,   
 
 ---
 ## 🌐 **Conferences & Research**  
 
+### **Reviewer**  
 - **2024 International Conference on IT and Industrial Technologies**  
-  *FAST-NUCES, 10-12 Dec 2024*  
-- **4th International Conference on Smart Plant Protection**  
+  *FAST-National University of Computer and Emerging Sciences, CFD Campus, Pakistan, 10-12 Dec 2024*
+  
+### **Presenter**  
+- **4th International Conference on Smart Plant Protection 2024**  
   *MNSUAM, 30-31 Oct 2024*  
-- **4th Multi-Disciplinary Student Research International Conference**  
-  *University of Wah, 06-07 Dec 2023*  
+  - Presented  AgriGuard: A Novel Deep Learning Approach for Pest Detection and Classification.  
+
+### **Attendee**  
 - **Pak-Turk International Conference on Emerging Technologies**  
   *University of Wah, 02 Dec 2022*  
-
+  - Attended sessions on AI, machine learning, and cybersecurity trends.  
+- **3rd International Conference on Smart Plant Protection**  
+  *MNSUAM, 15-16 Oct 2023*  
+  - Participated in workshops on AI applications in agriculture.  
 ---
 ## 📚 **Certifications & Training**  
 
