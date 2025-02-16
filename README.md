@@ -37,7 +37,7 @@ Beyond research and teaching, I am passionate about mentoring students in data s
 ## 💼 **Professional Experience**  
 
 ### **Instructor**  
-**FAST-National University of Computer and Emerging Sciences, CFD Campus, Pakistan**  
+**[FAST-National University of Computer and Emerging Sciences, CFD Campus, Pakistan](https://cfd.nu.edu.pk/faculty/hassan-ahmed/)**  
 *August 2024 – Present*  
 - Delivered engaging labs and lectures for undergraduate students.
 - **Courses**: Programming Fundamentals, IT in Business, and Operating Systems.  
