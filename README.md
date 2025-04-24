@@ -77,13 +77,14 @@ Beyond research and teaching, I am passionate about mentoring students in data s
 ### **Reviewer**  
 - **2024 International Conference on IT and Industrial Technologies**  
   *FAST-National University of Computer and Emerging Sciences, CFD Campus, Pakistan, 10-12 Dec 2024*
+ - **International Conference on Artificial Intelligence and Green Computing**  
+  *Campus Mghilla, Beni Mellal, Morocco, 14 - 16 May, 2025* 
   
 ### **Presenter**  
 - **4th International Conference on Smart Plant Protection 2024**  
   *MNSUAM, 30-31 Oct 2024*  
   - Presented  AgriGuard: A Novel Deep Learning Approach for Pest Detection and Classification.  
 
-### **Presenter**  
 - **2nd International Conference on Emerging Technologies in Electronics, Computing and Communication (ICETECC 2025)**  
   *Mehran University of Engineering \& Technology, Jamshoro, Sindh, Pakistan, 23 - 25 April, 2025*  
   - Presented  An Ensemble Deep Learning Framework for Autonomous Vehicle Attack Detection.  
