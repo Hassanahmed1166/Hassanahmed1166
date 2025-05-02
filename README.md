@@ -5,7 +5,7 @@
 
 My mission? To bridge the gap between complex AI systems and human understanding by developing **intelligent, explainable models** that drive smarter decision-making. With hands-on experience in **data analysis, predictive modeling, and security frameworks**, I have worked on groundbreaking projects in **machine learning, network security, computer vision, and XAI**, leveraging Python to unlock insights from intricate datasets.  
 
-Beyond research and teaching, I am passionate about mentoring students in data science, AI, and cybersecurity, guiding them in their journey toward impactful innovations.
+Beyond research and teaching, I am passionate about mentoring students in computer science, AI, and cybersecurity, guiding them in their journey toward impactful innovations.
 
 ---
 
