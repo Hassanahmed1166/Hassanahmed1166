@@ -108,8 +108,6 @@ Beyond research and teaching, I am passionate about mentoring students in comput
 
 ## 🌐 **Conferences & Research**  
 
-## 🌐 **Conferences & Research**  
-
 ### **Reviewer**  
 - **International Conference on IT and Industrial Technologies**  
   *FAST-National University of Computer and Emerging Sciences, CFD Campus, Pakistan | 10-12 Dec 2024*
@@ -243,7 +241,9 @@ I’m always excited to collaborate on innovative projects, share knowledge, and
 
 📧 **Email**: mianhassaan1166@gmail.com  
 🔗 **LinkedIn**: [Hassan Ahmed](https://www.linkedin.com/in/hassanahmed1166/)  
-
+🎓 **Google Scholar**: [Hassan Ahmed](https://scholar.google.com/citations?user=a7hJLzwAAAAJ)  
+📘 **ResearchGate**: [Hassan Ahmed](https://www.researchgate.net/profile/Hassan-Ahmed-162?ev=hdr_xprf)  
+🧩 **ORCID**: [0009-0008-4348-3360](https://orcid.org/0009-0008-4348-3360)
 ---
 
 **“The best way to predict the future is to create it.”** – Peter Drucker  
