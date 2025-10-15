@@ -239,11 +239,13 @@ Beyond research and teaching, I am passionate about mentoring students in comput
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img>  **Let's Connect**  
 I’m always excited to collaborate on innovative projects, share knowledge, and explore new opportunities in AI, data science, and cybersecurity. Feel free to reach out—let’s create something extraordinary together!  
 
-📧 **Email**: mianhassaan1166@gmail.com  
-🔗 **LinkedIn**: [Hassan Ahmed](https://www.linkedin.com/in/hassanahmed1166/)  
-🎓 **Google Scholar**: [Hassan Ahmed](https://scholar.google.com/citations?user=a7hJLzwAAAAJ)  
-📘 **ResearchGate**: [Hassan Ahmed](https://www.researchgate.net/profile/Hassan-Ahmed-162?ev=hdr_xprf)  
-🧩 **ORCID**: [0009-0008-4348-3360](https://orcid.org/0009-0008-4348-3360)
+
+📧 Email: [mianhassaan1166@gmail.com](mailto:mianhassaan1166@gmail.com)  
+🔗 LinkedIn: [Hassan Ahmed](https://www.linkedin.com/in/hassanahmed1166/)  
+🎓 Google Scholar: [Hassan Ahmed](https://scholar.google.com/citations?user=a7hJLzwAAAAJ)  
+📘 ResearchGate: [Hassan Ahmed](https://www.researchgate.net/profile/Hassan-Ahmed-162?ev=hdr_xprf)  
+🧩 ORCID: [0009-0008-4348-3360](https://orcid.org/0009-0008-4348-3360)
+
 ---
 
 **“The best way to predict the future is to create it.”** – Peter Drucker  
